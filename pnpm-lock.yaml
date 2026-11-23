@@ -207,8 +207,8 @@ importers:
         specifier: 0.10.0
         version: 0.10.0
       create-typescript-app:
-        specifier: 2.83.0
-        version: 2.83.0(bingo-systems@0.7.0)(typescript@5.9.3)
+        specifier: 2.84.0
+        version: 2.84.0(bingo-systems@0.7.0)(typescript@5.9.3)
       cspell:
         specifier: 10.5.1
         version: 10.5.1
@@ -243,8 +243,8 @@ importers:
         specifier: 9.1.7
         version: 9.1.7
       knip:
-        specifier: 6.46.0
-        version: 6.46.0
+        specifier: 6.47.0
+        version: 6.47.0
       lint-staged:
         specifier: 17.6.0
         version: 17.6.0
@@ -1676,8 +1676,8 @@ packages:
     resolution: {integrity: sha512-GW4qUsfFo59d0HbUibDlWv5wPz+vAAcaTWbKIuKCf0JkC7wWkSyf8f13IpXn5JkeMlB2P8iTSSIjwXljorg2vA==}
     engines: {node: '>=22'}
 
-  create-typescript-app@2.83.0:
-    resolution: {integrity: sha512-Viz9Njxhi7mW0e20zcM6D1P16kc3w5OoQ5RUzm6Vq7HBNDP32D3BSGQo0Xq9Gw4mw90bTP625figJssCU4YC8w==}
+  create-typescript-app@2.84.0:
+    resolution: {integrity: sha512-BQD1h9vU3VHzljcErElKANokTk1fzEGR5LGASNnz8YG+/h7C+HBU94/d4r9npRSUAQnNL5sr8soceOQJeYTBdQ==}
     engines: {node: ^22.13.0 || ^24.11.0 || >=26.0.0}
     hasBin: true
 
@@ -2385,8 +2385,8 @@ packages:
   keyv@5.6.0:
     resolution: {integrity: sha512-CYDD3SOtsHtyXeEORYRx2qBtpDJFjRTGXUtmNEMGyzYOKj1TE3tycdlho7kA1Ufx9OYWZzg52QFBGALTirzDSw==}
 
-  knip@6.46.0:
-    resolution: {integrity: sha512-Ms9cSOHL27A3uSG5IG0BR/Xd6ArXWtqg7PmZib2upe52C3Ka08jMtGIWG9ROBiTMUUaeZJD6HrU8g/b7VA82cQ==}
+  knip@6.47.0:
+    resolution: {integrity: sha512-nYmQnk0YqDXIJrYViJz88c8xw3tBDkpuAmofo58EkVPnKr6DnRKYtf6oIqcGVHZvXDE+gtmFuYx277/QsWng+A==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
 
@@ -4805,7 +4805,7 @@ snapshots:
 
   content-type@3.1.1: {}
 
-  create-typescript-app@2.83.0(bingo-systems@0.7.0)(typescript@5.9.3):
+  create-typescript-app@2.84.0(bingo-systems@0.7.0)(typescript@5.9.3):
     dependencies:
       '@prettier/sync': 0.6.1(prettier@3.10.1)
       '@typescript-eslint/typescript-estree': 8.73.0(typescript@5.9.3)
@@ -5667,7 +5667,7 @@ snapshots:
     dependencies:
       '@keyv/serialize': 1.1.1
 
-  knip@6.46.0:
+  knip@6.47.0:
     dependencies:
       formatly: 0.11.4
       get-tsconfig: 4.14.3
